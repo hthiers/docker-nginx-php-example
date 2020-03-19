@@ -1,10 +1,8 @@
 # Docker Nginx PHP Example
 
 [![Software License][ico-license]](LICENSE.md)
-[![PHP Version][ico-php-version]](https://hub.docker.com/_/php)
-[![NGINX Version][ico-nginx-version]](https://hub.docker.com/_/nginx)
 
-This is a simple example for running a docker container with PHP-FPM and NGINX.
+Stack docker container with PHP-FPM 7.2 and NGINX.
 
 ## Get it up and running
 
